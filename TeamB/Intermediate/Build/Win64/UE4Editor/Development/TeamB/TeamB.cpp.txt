@@ -1,0 +1,2 @@
+C:\Users\student\UnrealEngine4_teamB\TeamB\Intermediate\Build\Win64\UE4Editor\Development\TeamB\Definitions.TeamB.h
+C:\Users\student\UnrealEngine4_teamB\TeamB\Source\TeamB\TeamB.h

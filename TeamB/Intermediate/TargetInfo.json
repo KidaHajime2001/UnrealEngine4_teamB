@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TeamB",
+			"Path": "C:\\Users\\student\\UnrealEngine4_teamB\\TeamB\\Source\\TeamB.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TeamBEditor",
+			"Path": "C:\\Users\\student\\UnrealEngine4_teamB\\TeamB\\Source\\TeamBEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
