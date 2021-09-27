@@ -1,0 +1,3 @@
+C:\Users\student\Desktop\20010013\UnrealEngine4_teamB\TeamB\Intermediate\Build\Win64\UE4\Development\TeamB\Definitions.TeamB.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
