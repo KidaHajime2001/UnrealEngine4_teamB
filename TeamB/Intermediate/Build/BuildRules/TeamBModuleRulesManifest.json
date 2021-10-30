@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\student\\UnrealEngine4_teamB\\TeamB\\Source\\TeamB\\TeamB.Build.cs",
-		"C:\\Users\\student\\UnrealEngine4_teamB\\TeamB\\Source\\TeamB.Target.cs",
-		"C:\\Users\\student\\UnrealEngine4_teamB\\TeamB\\Source\\TeamBEditor.Target.cs"
+		"C:\\Users\\student\\Desktop\\20010013\\UnrealEngine4_teamB\\TeamB\\Source\\TeamB\\TeamB.Build.cs",
+		"C:\\Users\\student\\Desktop\\20010013\\UnrealEngine4_teamB\\TeamB\\Source\\TeamB.Target.cs",
+		"C:\\Users\\student\\Desktop\\20010013\\UnrealEngine4_teamB\\TeamB\\Source\\TeamBEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
